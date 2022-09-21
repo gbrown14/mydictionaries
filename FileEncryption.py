@@ -1,3 +1,5 @@
+
+
 def encryption(secret):
     infile = open('info_security.txt', 'r')
     infile_read = infile.read()
